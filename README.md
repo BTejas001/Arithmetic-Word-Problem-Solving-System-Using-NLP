@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=btejas001" alt="btejas001" /></a> </p>
 
-- 🔭 I’m currently working on **Bank Management System**
 
 - 🌱 I’m currently learning **Django, Flask**
 
 - 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **tejasbhusari001@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XnOkK5lLK14y_BLI_0uG9QLzSkRWUkP8/view?usp=sharing](https://drive.google.com/file/d/1XnOkK5lLK14y_BLI_0uG9QLzSkRWUkP8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
